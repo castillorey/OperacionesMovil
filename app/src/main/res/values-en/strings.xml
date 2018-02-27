@@ -5,4 +5,7 @@
     <string name="numero_dos">Number Two</string>
     <string name="operaciones">OPERATION</string>
     <string name="sumar">Add</string>
+    <string name="limpiar">Clean</string>
+    <string name="error_numero_uno_vacio">Type number one.</string>
+    <string name="error_numero_dos_vacio">Type number two.</string>
 </resources>
