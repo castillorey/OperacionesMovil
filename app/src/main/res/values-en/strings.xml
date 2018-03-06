@@ -3,9 +3,14 @@
     <string name="app_name">OperacionesMovil</string>
     <string name="numero_uno">Number One</string>
     <string name="numero_dos">Number Two</string>
-    <string name="operaciones">OPERATION</string>
+    <string name="operaciones">OPERATIONS</string>
     <string name="sumar">Add</string>
     <string name="limpiar">Clean</string>
     <string name="error_numero_uno_vacio">Type number one.</string>
     <string name="error_numero_dos_vacio">Type number two.</string>
+    <string name="operacion">Operation</string>
+    <string name="restar">Subtract</string>
+    <string name="multiplicar">Multiply</string>
+    <string name="dividir">Divide</string>
+    <string name="error_division_por_cero">Can´t divide by zero</string>
 </resources>
